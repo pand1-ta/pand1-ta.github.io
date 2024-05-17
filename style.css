@@ -380,6 +380,10 @@ h3 {
         background-color: #ffffff;
     }
 
+    .information-c1 {
+        padding: auto;
+    }
+
     .ofert-content {
         margin-top: 0;
         flex-direction: column;
