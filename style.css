@@ -39,7 +39,7 @@ img {
     display: flex;
     align-items: center;
     min-height: 70vh;
-    padding: 0px 0 0 0;
+    padding: 0 0 0 0;
 }
 
 .menu {
@@ -356,7 +356,7 @@ h3 {
     }
 
     .header {
-        min-height: 0vh;
+        min-height: 0;
         padding-top: 20px;
     }
 
